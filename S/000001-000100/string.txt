@@ -1,0 +1,30 @@
+İngilizcesi "string"
+Türkçesi "dizgi"
+
+
+Dizgi kelimesi sanırım Şadi Evren Şeker'in önermesidir.
+Bence güzel, bunu kullanacağım.
+
+"string"in karşılığı olarak "dizge"nin de kullanıldığını internette gördüm ancak
+kaynağını bilmiyorum. 
+
+Şu anda (13 Eylül 2023) Türkçe Vikipedi'de "string" kelimesinin karşılığı olarak
+"dize" kelimesine karar verilmiş. Ancak "dize" kelimesine ısınamadım, 
+çünkü bir kelime başka anlamlarda ne kadar kullanılmazsa o kadar iyi.
+"dizgi" kelimesi böyle bir kelime, başka hiçbir anlamda kullanıldığını 
+bilmiyorum.
+Ama "dize" böyle değil.
+
+
+
+Ayrıca bakınız:
+https://bilgisayarkavramlari.com/2008/08/02/dizgi-string/
+https://en.wikipedia.org/wiki/String_(computer_science)
+
+
+Ayrıca şimdilik bakmayınız:
+https://tr.wikipedia.org/wiki/Dize_(bilgisayar_bilimi)
+
+
+
+

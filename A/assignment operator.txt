@@ -1,0 +1,52 @@
+İngilizcesi "assignment operator"
+Türkçesi "atama işleci"
+
+
+
+Bu neyin nesi derseniz, örneğin matematiksel eşitlik
+işareti Java dilinde bir atama işlecidir. Yani şu:
+=
+
+Peki atama işleci ne demek derseniz, atama işleci,
+bir değeri (value) bir değişkene (variable) atamayı sağlıyor.
+Değişkeni bir sandalye olarak düşünürseniz, 
+"Süleyman, git şu sandalyeye otur" demek ile
+Java dilinde, bir değişkene değer atamak aynı şeydir.
+Tabiri caizse, Java dilinde siz yeni bir bildirim (statement)
+ile şunu söyleyene kadar, Süleyman o sandalyeden kalkamaz:
+"Bahadır, git şu sandalyeye otur"
+Java dilinde bunu söylediğiniz anda, Süleyman sandalyeden
+kalkar ve yerine Bahadır oturur.
+
+Örnek:
+
+public class whatIsAssignment {
+
+    public static void main(String[] args) {
+        String sandalye="Süleyman";
+        System.out.println(sandalye);
+
+    }
+
+}
+
+
+Kodu çalıştırdığında, çıktı şu olacak:
+Süleyman
+
+
+Ama şöyle yaparsan, kodu çalıştırdığında çıktı Bahadır olacak:
+
+public class whatIsAssignment {
+
+    public static void main(String[] args) {
+        String sandalye="Süleyman";
+        sandalye="Bahadır";
+        System.out.println(sandalye);
+
+    }
+
+}
+
+
+

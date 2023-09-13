@@ -1,0 +1,12 @@
+Türkçesi "atama işleci"
+İngilizcesi "assignment operator"
+
+
+
+
+
+
+
+
+
+

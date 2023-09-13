@@ -1,0 +1,9 @@
+İngilizcesi "variable"
+Türkçesi "değişken"
+
+
+
+
+Türkçe'de bu "variable" bilgisayar teriminin karşılığı olarak
+"değişken" kelimesi sanırım yerleşmiş durumda.
+

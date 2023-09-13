@@ -1,0 +1,15 @@
+Türkçesi "sonlayıcı"
+İngilzcesi "terminator"
+
+
+Örneğin Java dilinde noktalı virgül, bir sonlayıcı.
+Neyi sona erdiriyor?
+Bir bildirimi (statement) sona erdiriyor.
+Sonlayıcının bir değişken sentaksındaki yeri şu:
+
+
+(data türü)        (değişken adı)        (atama işleci)        (değer)        (sonlayıcı)
+(data type)        (variable name)    (assignment operator)    (value)        (terminator)  
+
+
+  

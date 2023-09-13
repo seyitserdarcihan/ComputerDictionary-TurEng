@@ -1,0 +1,13 @@
+Türkçesi "sentaks"
+İngilizcesi "syntax"
+
+
+
+İngilizce "syntax" kelimesinin bilgisayar terimi anlamını karşılarken
+Türkçe'de "sözdizimi" kelimesini kullanmak hoşuma gitmiyor. 
+"sözdizimi" kelimesi bende sentaks kelimesinin yaptığı etkiyi 
+yapmıyor.
+
+
+
+

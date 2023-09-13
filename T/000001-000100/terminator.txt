@@ -1,0 +1,20 @@
+İngilizcesi "terminator"
+Türkçesi "sonlayıcı"
+
+
+
+
+
+
+Mesela, Java dilinde noktalı virgül (semicolon) bir sonlayıcıdır.
+Normal Türkçe dilinde nokta ne ise, Java dilinde noktalı virgül odur.
+Ama bu benzetme mükemmel olmadı.
+Çünkü siz Türkçe bir metinde birçok cümle sonunda nokta kullanmasanız
+bile insanların çoğu ne yazdığınızı anlar.
+Java'da öyle değil.
+Eğer noktalı virgülü Java'daki bir bildirimde kullanmazsanız, Java
+ne dediğinizi anlayamaz. Öyle işte.
+
+
+
+
