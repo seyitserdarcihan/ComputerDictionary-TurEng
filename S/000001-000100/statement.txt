@@ -4,9 +4,20 @@ Türkçesi "bildirim"
 
 
 
-Diğer insanlar veya standart dili oluşturanlar "statement" için ne demeye 
-karar verdiler şu anda bilmiyorum. Sözlükte bulabildiğim en hoşuma giden
-karşılık "bildirim" kelimesi. 
+Başka hiçbir yerde kullanılmayan şu terimi, 
+programlama dili terimi olan "statement"
+sözcüğünün Türkçe karşılığı olarak teklif ediyorum:
+tambildirim.
+Bu "tambildirim" kelimesi, bu şekliyle hiçbir bilgisayar
+dünyası sözcüğünün karşılığı olarak kullanılmıyor şu anda.
+Ve, "statement" teriminin ne iş yaptığını bence güzel 
+anlatıyor.
+
+
+
+Eğer "statement" kelimesi için "tambildirim" yerleşirse,
+hiçbir diğer kavramla kafa karışıklığına yol açmayacak.
+
 
 
 

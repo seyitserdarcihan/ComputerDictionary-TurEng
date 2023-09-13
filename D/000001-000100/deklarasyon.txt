@@ -7,6 +7,25 @@ Türkçesi "deklarasyon"
 
 
 
+Bu "declaration" teriminin Türkçe karşılığı olarak,
+"önbildiri" kelimesini öneriyorum.
+Kelime üzerinde düşündüm ve Java dilinde kullanılan
+"declaration" kavramını bence güzel karşılıyor.
+Java dilindeki bir değişken sentaksının parçası olan
+deklarasyonun (declaration) ne olduğunu biliyorsanız,
+neden "önbildiri" kelimesini önerdiğimi rahatlıkla
+farkedersiniz.
+
+
+"önbildiri" önerimi, şununla karşılaştırın,
+"statement" terimi için "tambildirim" terimini öneriyorum.
+
+
+Tabi ki, "declaration statement" ibaresini Türkçe'ye 
+çevirdiğimizde, "önbildiri tambildirimi" demiş oluyoruz 
+ve göze kulağa hoş gelmiyor. 
+
+Yine de bu iki kelimeyi öneriyorum.
 
 
 
@@ -14,41 +33,8 @@ Türkçesi "deklarasyon"
 
 
 
-Bu "declaration" terimi için bir Öztürkçe karşılık 
-bulamadım. "declaration" kelimesi için bir sürü karşılık
-bulabilirsiniz, örneğin şurada "declare" fiili için
-"bildirim" kelimesi kullanılmış:
-https://bim.hku.edu.tr/bilgisayar-terimler-sozlugu/
-Aynı sözlükte, "statement" terimi için "deyim" karşılığı
-kullanılmış.
 
-Bence, "statement" terimi için "bildirim" karşılığı kullanılmalı.
-Bence, "declaration" terimi için "deklarasyon" karşılığı kullanılmalı.
 
-Problem şu, sayısını bilmiyorum, binlerce bilgisayar terimi var,
-bu terimlere Türkçe karşılık seçerken, öyle pat diye
-bir kelimeyi seçip kullanmak yanlış. Mümkünse, terimin
-karşılığı olarak daha önce hiç kullanılmamış bir Öztürkçe
-kelimeyi türetmek ya da uydurmak lazım.
-Yapılacak en büyük hata, mevcut bir kelimeyi hatalı olarak
-bir terimin karşılığı olarak seçmek. Örnekte, "statement" için
-"deyim" demişler. Sizce bu karşılık uygun mu?
-Bence, "statement" için "bildirim" demek gerekir.
-Deklarasyon kelimesi ise öylece kalmalı.
-
-Şu sözlüğe gidin: https://bim.hku.edu.tr/bilgisayar-terimler-sozlugu/
-ve CTRL+F tuşlarına basıp, şu kelimeyi arayın:
-bildirim
-
-"notice" için "bildirim" denmiş,
-"declaration" terimi yok ama onun için de "bildirim" dendiği anlaşılıyor,
-çünkü "declare" fiili için "bildirmek" karşılığı seçilmiş.
-"notice" fiili için de "bildirmek" denilmiş
-"declaratives" için "bildirim deyimleri" denilmiş
-ama "statement" için de "deyim" denilmiş.
-
-Buradan ne anlıyorum? Şunu anlıyorum,
-Türkiye Türkçesi dünyasında bilgisayar dili için bir kaos var.
 
 
 
