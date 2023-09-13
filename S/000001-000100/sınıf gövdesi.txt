@@ -1,0 +1,12 @@
+Türkçesi "sınıf gövdesi"
+İngilizcesi "class body"
+
+
+Bir Java kodunda iki süslü parantez arasında kalan ve içinde 
+değişkenlerin ve işlevlerin olduğu bölüme sınıf gövdesi denir.
+
+İşin aslı, "class body" için "sınıf gövdesi" sözcük öbeğini
+hiçbir yerde bulamadım ve kendim kurdum.
+
+
+
