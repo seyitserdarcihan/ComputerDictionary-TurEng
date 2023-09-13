@@ -1,0 +1,22 @@
+Türkçesi "tambildirim"
+İngilizcesi "statement"
+
+
+
+Uyarı:
+Bu "tambildirim" kelimesini hiçbir yerde "statement" karşılığı olarak
+bulamazsınız, göremezsiniz. Çünkü ben uydurdum.
+
+
+Bence "tambildirim" kelimesi, Java dilindeki "statement" kavramının
+ne yaptığını çok güzel anlatıyor, tek kelimelik bir tanım gibi.
+
+
+Benzer bir kavram olarak, "declaration" teriminin karşılığı olarak
+"önbildiri" kelimesini öneriyorum.
+
+
+statement = tambildirim
+declaration = önbildiri
+
+
