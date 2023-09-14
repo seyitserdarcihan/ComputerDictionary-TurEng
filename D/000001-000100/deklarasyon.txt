@@ -6,38 +6,6 @@ Türkçesi 'deklarasyon'
 
 
 
-----------------Bir Öneri----------------
-
-Bu 'declaration' teriminin Türkçe karşılığı olarak,
-'önbildiri' kelimesini öneriyorum.
-Kelime üzerinde düşündüm ve Java dilinde kullanılan
-"declaration" kavramını bence güzel karşılıyor.
-Java dilindeki bir değişken sentaksının parçası olan
-deklarasyonun (declaration) ne olduğunu biliyorsanız,
-neden "önbildiri" kelimesini önerdiğimi rahatlıkla
-farkedersiniz.
-
-
-"önbildiri" önerimi, şununla karşılaştırın,
-"statement" terimi için "tambildirim" terimini öneriyorum.
-
-
-Tabi ki, "declaration statement" ibaresini Türkçe'ye 
-çevirdiğimizde, "önbildiri tambildirimi" demiş oluyoruz 
-ve göze kulağa hoş gelmiyor. 
-
-Yine de bu iki kelimeyi önermekte ısrarlıyım. Önerisi olan?
-
-
-
-
-
-
-
-
-
-
-
 
 
 
