@@ -1,5 +1,5 @@
-Türkçesi "sonlayıcı"
-İngilzcesi "terminator"
+Türkçesi 'sonlayıcı'
+İngilzcesi 'terminator'
 
 
 Örneğin Java dilinde noktalı virgül, bir sonlayıcı.

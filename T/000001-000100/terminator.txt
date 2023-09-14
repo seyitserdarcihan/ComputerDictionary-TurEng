@@ -1,5 +1,5 @@
-İngilizcesi "terminator"
-Türkçesi "sonlayıcı"
+İngilizcesi 'terminator'
+Türkçesi 'sonlayıcı'
 
 
 

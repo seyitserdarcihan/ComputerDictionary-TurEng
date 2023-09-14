@@ -1,12 +1,35 @@
-Türkçesi "sentaks"
-İngilizcesi "syntax"
+Türkçesi 'sentaks'
+İngilizcesi 'syntax'
 
 
 
-İngilizce "syntax" kelimesinin bilgisayar terimi anlamını karşılarken
-Türkçe'de "sözdizimi" kelimesini kullanmak hoşuma gitmiyor. 
-"sözdizimi" kelimesi bende sentaks kelimesinin yaptığı etkiyi 
-yapmıyor.
+
+Türkçe'de 'sözdizimi' kelimesi kullanılabilir. Bu yerleşik bir kullanım,
+ama ben kullanmıyorum. Sebebi de şu, deklarasyon ve sentaks kelimeleri
+gibi uyarlamalarda kelime ek aldığında imlâsı değişime uğramıyor.
+İmlâsı değişime uğramadığı için tanınmaz bir sûrete bürünmüyor.
+Ama ayrıca şu var, bu kelimeler yazıldığı gibi okunuyor, 
+Türkçe'ye uyarlanmış oldukları için. Artık 'syntax' değil, 'declaration'
+değil. 
+
+Ama 'push' kelimesini kullanırken kelime ek aldığında kesme
+işareti kullanmak zorundasın ve bu Türkçe yazım ve noktalama 
+standartlarına uygun değil, yâni yabancı bir kelimeyi orijinal hâli ile
+kullanıp ardından gelen ekleri kesme işareti ile ayırmak zorunda kalmak,
+bu güzel değil. İşte sentaks ve deklarasyon kelimeleri böyle değiller,
+Türkçe'de kalabilirler, dışarıya atmaya gerek yok.
+Bir dile giren yabancı kelimeler o dili öldürüp yok etmez,
+bence korkacak hiçbir şey yok.
+Herşey için Öztürkçe çılgınlığı yapmayı sevmiyorum. 
+
+
+
+
+
+
+
+
+
 
 
 

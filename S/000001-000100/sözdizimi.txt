@@ -1,10 +1,12 @@
-Türkçesi "sözdizimi"
-İngilizcesi "syntax"
+Türkçesi 'sözdizimi'
+İngilizcesi 'syntax'
 
 
 
 İngilizce bilgisayar terimi olan "syntax" için
-Türkçe olarak kullanılabilecek bir karşılık.
+Türkçe olarak kullanılan bir karşılık.
 
-Şahsen kullanmıyorum. Alışamadım.
+Şahsen kullanmıyorum. Alışamadım. 
+Ama güzel kelime, 'syntax'ın ne olduğunu tek kelime ile
+tanımlıyor, tanımlamaya gerek kalmadan.
 

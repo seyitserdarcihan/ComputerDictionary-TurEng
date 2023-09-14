@@ -1,10 +1,10 @@
-Türkçesi "dizgi"
-İngilizcesi "string"
+Türkçesi 'dizgi'
+İngilizcesi 'string'
 
 
 
 
-Bu "dizgi" kelimesi sanırım Şadi Evren Şeker'in önermesi ve 
+Bu 'dizgi' kelimesi sanırım Şadi Evren Şeker'in önermesi ve 
 şurada var:
 https://bilgisayarkavramlari.com/2008/08/02/dizgi-string/
 

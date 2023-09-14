@@ -1,5 +1,5 @@
-Türkçesi "değişken adı"
-İngilizcesi "variable name"
+Türkçesi 'değişken adı'
+İngilizcesi 'variable name'
 
 
 
@@ -7,6 +7,6 @@ Türkçesi "değişken adı"
 Bu aslında bütün halindeyken bir terim değil. 
 Ama içinde terim var. Değişken kelimesi bir terim.
 Aynı durum İngilizce'de de geçerli.
-"variable name" bir bütün halinde bir terim değil,
-sadece bir "noun phrase". Ama içinde bir "term" var.
+'variable name' bir bütün halinde bir terim değil,
+sadece bir 'noun phrase'. Ama içinde bir 'term' var.
 

@@ -1,0 +1,27 @@
+Türkçesi 'dosya uzantısı'
+İngilizcesi 'file extension'
+
+
+
+İngilizce'de bu terimin üç şekilde kullanıldığı görülebilir:
+filename extension
+file name extension
+file extension
+
+Üçü de 'dosya uzantısı' demektir.
+
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Genel Bilgiler ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬  
+Dosyaların uzantıları, dosya isminden nokta (.) ile ayrılır.
+Örneğin bir metin dosyası (text file) şu uzantı ile gösterilir:
+.txt
+
+
+
+
+
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Ayrıca Bakınız ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬  
+https://en.wikipedia.org/wiki/Filename_extension
+https://tr.wikipedia.org/wiki/Dosya_uzant%C4%B1s%C4%B1
+https://en.wikipedia.org/wiki/Text_file

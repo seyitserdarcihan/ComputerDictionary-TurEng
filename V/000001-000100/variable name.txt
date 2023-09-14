@@ -1,5 +1,5 @@
-İngilizcesi "variable name"
-Türkçesi "değişken adı"
+İngilizcesi 'variable name'
+Türkçesi 'değişken adı'
 
 
 

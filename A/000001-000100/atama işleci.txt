@@ -1,5 +1,5 @@
-Türkçesi "atama işleci"
-İngilizcesi "assignment operator"
+Türkçesi 'atama işleci'
+İngilizcesi 'assignment operator'
 
 
 

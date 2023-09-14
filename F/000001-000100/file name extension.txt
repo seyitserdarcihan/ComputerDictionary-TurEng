@@ -1,0 +1,18 @@
+İngilizcesi 'file name extension'
+Türkçesi 'dosya uzantısı'
+
+
+
+İngilizce'de bu terimin üç şekilde kullanıldığı görülebilir:
+filename extension
+file name extension
+file extension
+
+Üçü de 'dosya uzantısı' demektir.
+
+
+
+
+Ayrıca bakınız:
+https://en.wikipedia.org/wiki/Filename_extension
+https://tr.wikipedia.org/wiki/Dosya_uzant%C4%B1s%C4%B1

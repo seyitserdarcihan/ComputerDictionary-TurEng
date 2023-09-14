@@ -1,5 +1,5 @@
-Türkçesi "değer"
-İngilizcesi "value"
+Türkçesi 'değer'
+İngilizcesi 'value'
 
 
 

@@ -1,5 +1,5 @@
-İngilizcesi "data type"
-Türkçesi "data türü"
+İngilizcesi 'data type'
+Türkçesi 'data türü'
 
 
 

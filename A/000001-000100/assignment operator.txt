@@ -1,5 +1,5 @@
-İngilizcesi "assignment operator"
-Türkçesi "atama işleci"
+İngilizcesi 'assignment operator'
+Türkçesi 'atama işleci'
 
 
 
@@ -12,7 +12,7 @@ bir değeri (value) bir değişkene (variable) atamayı sağlıyor.
 Değişkeni bir sandalye olarak düşünürseniz, 
 "Süleyman, git şu sandalyeye otur" demek ile
 Java dilinde, bir değişkene değer atamak aynı şeydir.
-Tabiri caizse, Java dilinde siz yeni bir bildirim (statement)
+Tabiri caizse, Java dilinde siz yeni bir tambildirim (statement)
 ile şunu söyleyene kadar, Süleyman o sandalyeden kalkamaz:
 "Bahadır, git şu sandalyeye otur"
 Java dilinde bunu söylediğiniz anda, Süleyman sandalyeden
@@ -23,7 +23,7 @@ kalkar ve yerine Bahadır oturur.
 public class whatIsAssignment {
 
     public static void main(String[] args) {
-        String sandalye="Süleyman";
+        String sandalye="Süleyman sandalyede oturuyor";
         System.out.println(sandalye);
 
     }
@@ -32,7 +32,7 @@ public class whatIsAssignment {
 
 
 Kodu çalıştırdığında, çıktı şu olacak:
-Süleyman
+Süleyman sandalyede oturuyor
 
 
 Ama şöyle yaparsan, kodu çalıştırdığında çıktı Bahadır olacak:
@@ -40,8 +40,8 @@ Ama şöyle yaparsan, kodu çalıştırdığında çıktı Bahadır olacak:
 public class whatIsAssignment {
 
     public static void main(String[] args) {
-        String sandalye="Süleyman";
-        sandalye="Bahadır";
+        String sandalye="Süleyman sandalyede oturuyor";
+        sandalye="Bahadır sandalyede oturuyor";
         System.out.println(sandalye);
 
     }

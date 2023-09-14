@@ -1,18 +1,12 @@
-İngilizcesi "class body"
-Türkçesi "sınıf gövdesi"
+İngilizcesi 'class body'
+Türkçesi 'sınıf gövdesi'
 
 
 
-Türkçe "sınıf gövdesi" ibaresini hiçbir yerde göremedim,
+Türkçe 'sınıf gövdesi' ibaresini hiçbir yerde göremedim,
 kendim kurdum. 
 
 
 
 
-
-
-Belki bir yerlerde birçok kimseler de aynı şeyi 
-yaptılar ve ilk kendilerinin yaptığını düşündüler, öyleyse diyelim ki:
-https://www.youtube.com/watch?v=fJyOOib5W8Q&t=147s
-
-
+ 
