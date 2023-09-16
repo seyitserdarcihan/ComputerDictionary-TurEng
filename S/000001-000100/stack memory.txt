@@ -1,0 +1,4 @@
+İngilizcesi 'stack memory'
+Türkçesi 'yığın bellek' veya 'yığın hafıza'
+
+

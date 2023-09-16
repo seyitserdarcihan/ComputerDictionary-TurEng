@@ -1,0 +1,13 @@
+İngilizcesi 'call stack'
+Türkçesi 'çağrı yığını'
+
+
+
+Yukarıda isim hâli var. Eğer 'call stack' ile yapılan fiili
+kastediyorsan, şöyle çevrilir:
+'Yığın çağır!'
+
+Burada birazcık İngilizce biliyor olmak gerekiyor, üstteki
+açıklamayı anlamak için. İngilizce'de fiil nesneden önce gelir.
+
+

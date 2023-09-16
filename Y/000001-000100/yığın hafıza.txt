@@ -1,0 +1,15 @@
+Türkçesi 'yığın hafıza'
+İngilizcesi 'stack memory'
+
+
+
+
+
+
+
+Türkçesine 'yığın bellek' de deniyor.
+
+
+
+
+

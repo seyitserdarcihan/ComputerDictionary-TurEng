@@ -1,0 +1,7 @@
+Türkçesi 'çağrı yığını'
+İngilizcesi 'call stack'
+
+
+
+
+

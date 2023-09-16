@@ -1,0 +1,15 @@
+Türkçesi 'yığıt bellek'
+İngilizcesi 'heap memory'
+
+
+
+▬▬▬▬▬▬▬▬▬▬▬▬ Uyarı ▬▬▬▬▬▬▬▬▬▬▬▬
+'heap memory' için 'yığıt bellek' karşılığı
+yerleşmiş standart bir karşılık değil. 
+
+'stack memory' için 'yığın bellek' ve
+'heap memory' için 'yığıt bellek' tercihi bana ait.
+Bu iki fenomen farklı olduğu için adları da Türkçede 
+farklı olmalı. 
+
+
