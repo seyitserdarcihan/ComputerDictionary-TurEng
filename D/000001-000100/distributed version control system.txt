@@ -1,0 +1,16 @@
+İngilizcesi 'distributed version control system'
+Türkçesi 'dağıtılmış sürüm kontrol sistemi'
+
+
+
+▬▬▬▬▬▬▬▬▬▬▬▬ Açıklamalar ▬▬▬▬▬▬▬▬▬▬▬▬
+'Dağıtılmış' şu anlama geliyor: Bir proje üzerinde sadece bir 
+kişi çalışmak zorunda değil. Birden fazla kişi ortak proje 
+üretebilir ve her katılımcı projeye katkıda bulunabilir.
+
+Türkçe 'dağıtılmış versiyon kontrol sistemi' olarak
+da kullanımına rastlanabilir internette ve kaynak metinlerde.
+
+
+
+

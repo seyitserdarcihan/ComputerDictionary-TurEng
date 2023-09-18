@@ -1,0 +1,15 @@
+İngilizcesi 'remote'
+Türkçesi 'uzak' veya 'uzaktan'
+
+
+
+▬▬▬▬▬▬▬▬▬▬▬▬ Açıklama ▬▬▬▬▬▬▬▬▬▬▬▬
+Türkçesinin 'uzak' mı yoksa 'uzaktan' mı olarak kullanılacağı,
+belirsiz değil. Duruma göre değişen bir durum. Bazı isim
+tamlamalarında 'uzaktan' olarak kullanılıyor, bazı durumlarda
+'uzak' olarak kullanılıyor.
+
+Örneğin 'remote reboot', bir komut ve şu anlama geliyor:
+'uzaktan yeniden başlat'
+Eğer bu örnekte Türkçesini 'uzak yeniden başlat' şeklinde söylesek,
+Türkçenin kurallarına aykırı bir anlatım bozukluğu olacak.

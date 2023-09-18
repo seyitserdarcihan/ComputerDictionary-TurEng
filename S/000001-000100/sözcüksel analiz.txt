@@ -1,0 +1,23 @@
+Türkçesi 'sözcüksel analiz'
+İngilizcesi 'lexical analysis'
+
+
+
+
+
+
+▬▬▬▬▬▬▬▬▬▬▬▬ Ayrıca Bakınız ▬▬▬▬▬▬▬▬▬▬▬▬
+https://en.wikipedia.org/wiki/Lexical_analysis
+https://tr.wikipedia.org/wiki/S%C3%B6zc%C3%BCksel_analiz
+
+
+
+
+
+
+▬▬▬▬▬▬▬▬▬▬▬▬ Açıklamalar ▬▬▬▬▬▬▬▬▬▬▬▬
+Üstteki Türkçe Vikipedi maddesinin kelime karşılığı tercihlerine
+tamamen katılmıyorum. Mesela bence 'token' kelimesine Türkçe'de
+'jeton' değil, 'dizgecik' denmesi gerekir.
+
+

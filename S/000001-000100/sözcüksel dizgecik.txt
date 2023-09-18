@@ -1,0 +1,6 @@
+Türkçesi 'sözcüksel dizgecik'
+İngilizcesi 'lexical token'
+
+
+
+

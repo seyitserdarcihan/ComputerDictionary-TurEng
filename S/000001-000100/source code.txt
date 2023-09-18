@@ -1,0 +1,18 @@
+İngilizcesi 'source code'
+Türkçesi 'kaynak kod'
+
+
+
+▬▬▬▬▬▬▬▬▬▬▬▬ Kişisel Düşüncelerim ▬▬▬▬▬▬▬▬▬▬▬▬
+Türkçesinin yalın hâli 'kaynak kodu' olmamalıdır. Bu bir hata.
+Çünkü bu bir takısız isim tamlamasıdır. Bunu diyalektik yolla
+açıklarsak:
+
+Soru: "Bu kod nasıl bir koddur?"
+Cevap: "Bu kod, bir kaynak koddur".
+
+Hayâlî diyalogda görüldüğü gibi, 'kaynak' niteliği,
+kodun mahiyetidir.
+
+
+

@@ -1,0 +1,58 @@
+İngilizce akronim 'XML'
+İngilizce akronimin açılımı 'Extensible Markup Language'
+
+
+
+▬▬▬▬▬▬▬▬▬▬▬▬ Açıklamalar ▬▬▬▬▬▬▬▬▬▬▬▬
+XML akronimi oluşturulurken, akronimin birinci harfi olarak
+'extensible' kelimesinin ikinci harfi seçilmiş. M ve L harfleri
+mâlum ilk harfler.
+
+
+XML is a widely-used markup language that defines a set of rules 
+for encoding documents in a format that is both human-readable 
+and machine-readable. XML is designed to be self-descriptive and 
+platform-independent, making it suitable for various applications, 
+including data exchange between different systems and 
+the representation of structured data.
+
+
+Key features of XML include:
+
+
+Extensibility: XML allows users to define their own custom markup tags and 
+document structures, making it adaptable to a wide range of applications.
+
+
+Hierarchical Structure: XML documents are structured as a tree of elements, 
+with one root element containing nested child elements. 
+This hierarchical structure makes it suitable for representing structured data.
+
+
+Self-Descriptive: Each XML document can include a Document Type Definition (DTD) 
+or an XML Schema Definition (XSD) that specifies the structure and 
+data types of the elements within the document. This self-descriptive nature 
+ensures that the document's content is well-defined and validated.
+
+
+Text-Based: XML documents are plain text files, which means they can be 
+easily created, edited, and read using text editors or specialized XML tools.
+
+
+Platform-Independent: XML is not tied to any specific programming language 
+or operating system, making it suitable for interoperability between 
+different software systems and platforms.
+
+
+Data Exchange: XML is commonly used for data exchange between different 
+applications and systems, such as web services, configuration files, 
+and data storage formats.
+
+
+Human-Readable: While XML is primarily designed for machine processing, 
+its text-based format is also human-readable, which makes it easier for 
+developers to work with and troubleshoot.
+
+
+
+

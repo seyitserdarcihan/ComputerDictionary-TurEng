@@ -1,0 +1,56 @@
+İngilizce akronimi 'POM'
+İngilizce akronimin açılmı 'Project Object Model'
+
+
+
+
+▬▬▬▬▬▬▬▬▬▬▬▬ Açıklamalar ▬▬▬▬▬▬▬▬▬▬▬▬
+A pom.xml file is a configuration file used in Apache Maven, 
+a widely-used build automation and project management tool 
+primarily used for Java projects. The acronym "POM" stands for "Project Object Model" 
+The pom.xml file contains essential information about a project, 
+its dependencies, build settings, and other project-related metadata.
+
+
+Some key elements and information typically found in a pom.xml file:
+
+
+Project Information: This includes details such as the project's 
+name, version, description, and organization.
+
+
+Dependencies: A list of external libraries and dependencies that the project relies on. 
+Maven uses this information to automatically download and manage 
+these dependencies during the build process.
+
+
+Build Configuration: Maven allows you to specify how your project should be built, 
+including settings for compiling, testing, packaging, and deploying your application.
+
+
+Plugins: Plugins are used to extend Maven's capabilities. 
+They can be configured in the pom.xml file to perform various tasks 
+during the build process, such as code generation, reporting, or packaging.
+
+
+Repositories: Information about where Maven should look for dependencies. 
+This includes remote repositories where Maven can download libraries 
+if they are not available locally.
+
+
+Profiles: Profiles allow you to define different sets of configurations 
+for different environments or build conditions. 
+You can activate specific profiles based on criteria such as 
+the development stage or target platform.
+
+
+
+
+
+
+
+
+
+
+
+

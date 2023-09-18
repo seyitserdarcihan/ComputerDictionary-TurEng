@@ -1,0 +1,29 @@
+İngilizcesi 'token'
+Türkçesi 'dizgecik'
+
+
+
+
+
+
+
+▬▬▬▬▬▬▬▬▬▬▬▬ Açıklamalar ▬▬▬▬▬▬▬▬▬▬▬▬
+'token' kelimesinin İngilizce bilgisayar dünyasında birden fazla anlamı var,
+ancak bütün o anlamlarda 'token' kelimesi kullanılıyor.
+Çünkü bir anlam ilgisi var, hepsi bir token çeşidi.
+Bu yüzden, Türkçede de o terimlerin karşılıkları oluşturulurken,
+'dizgecik' kelimesi kullanılmalıdır.
+
+İngilizce Wikipedia'da bilgisayar terimi olan 'token' kelimesinin en geniş
+açıklaması olarak şu yazılmış mesela:
+Token is an object in software or in hardware which represents the right to perform some operation.
+Dikkat edin, bu üst satırdaki tanımlama en geniş tanımlama. İçinde 'token' kelimesini
+barındıran birden fazla terim var. Bu terimlerin tanımlamaları doğal olarak farklı:
+
+Access token (Erişim dizgeciği)
+Lexical token (Sözcüksel dizgecik)
+Security token (Akıllı anahtar)
+Session token (Oturum dizgeciği)
+
+
+

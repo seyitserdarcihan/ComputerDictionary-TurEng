@@ -1,0 +1,20 @@
+İngilizce akronimi 'VCS'
+İngilizce akronimin açılımı 'Version Control System'
+Türkçesi 'Sürüm kontrol sistemi'
+
+
+
+
+▬▬▬▬▬▬▬▬▬▬▬▬ Açıklamalar ▬▬▬▬▬▬▬▬▬▬▬▬
+İngilizce açılımı yazılırken her kelimenin başı büyük harfle
+başlamaz. Ancak, İngilizce'de bir akronimin açılımı gösterilirken,
+normalde özel isim olmayan bir sözcük öbeği, sadece böyle bir
+durumda her kelimesinin başharfi büyük gösterilir.
+Amaç, akronimin harflerine dikkat çekmek.
+(Bu açıklama bilgisi bir tahmindir, emin değilim)
+
+
+
+
+
+
