@@ -1,0 +1,25 @@
+İngilizcesi 'subcommand'
+Türkçesi 'alt komut'
+
+
+
+▬▬▬▬▬▬▬▬▬▬▬▬ Açıklamalar ▬▬▬▬▬▬▬▬▬▬▬▬
+Alt komut, birinci komut kelimesinden sonra yazılan 
+ikinci komut kelimesidir. Örneğin Git yazılımı kullanılırken
+komut isteminden yazılan aşağıdaki komutlardaki ikinci 
+kelimeler alt komuta örnek olarak gösterilebilir:
+
+git init
+git add .
+git commit -m "commit message"
+git push
+git pull
+
+Üstteki örneklerde geçen şu kelimeler alt komuttur:
+init
+add
+commit
+push
+pull
+
+

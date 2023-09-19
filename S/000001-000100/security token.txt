@@ -1,5 +1,5 @@
 İngilizcesi 'security token'
-Türkçesi 'akıllı anahtar'
+Türkçesi 'güvenlik belirteci'
 
 
 

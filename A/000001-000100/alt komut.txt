@@ -1,0 +1,27 @@
+Türkçesi 'alt komut'
+İngilizcesi 'subcommand'
+
+
+
+▬▬▬▬▬▬▬▬▬▬▬▬ Örnek 1 ▬▬▬▬▬▬▬▬▬▬▬▬
+Eğer bilgisayara Git yazılımı yüklüyse ve Git yazılımını
+komut istemi üzerinden kullanmayı biliyorsanız, bu örneği
+kolayca anlayabilirsiniz. Örnek şu:
+git commit -m "commit message"
+
+Üstteki komut örneğinde ikinci komut 'commit'
+bir alt komuttur. Ana komut ise şudur:
+git
+
+Ana komuttan sonra alt komut (subcommand) yazılarak, 
+Git yazılımının ne yapmasını istediğimizi bilgisayara 
+ifade etmiş oluruz. Üstteki örnekte 'git commit' komutu
+şu şekilde konuşma diline tercüme edilebilir:
+"Git yazılımını kullanarak bu proje için en son sürümü işlemeni istiyorum"
+ya da şu şekilde ifade edilebilir:
+"Projemi lokal Git repomda güncelle"
+
+Ana komuta sadece 'komut' denir. 'Ana komut' sözcük öbeğini
+meseleyi vuzuha kavuşturmak için ve diğerinden ayırt etmek için kullandım.
+
+
