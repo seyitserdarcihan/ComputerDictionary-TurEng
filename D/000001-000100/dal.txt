@@ -1,0 +1,15 @@
+Türkçesi 'dal'
+İngilizcesi 'branch'
+
+
+
+
+▬▬▬▬▬▬▬▬▬▬▬▬ Açıklamalar ▬▬▬▬▬▬▬▬▬▬▬▬
+GitHub'daki 'branch' uygulamasının Türkçede 'dal' kelimesi
+ile karşılanıp karşılanmadığını bilmiyorum. 'branch' kelimesini
+Türkçede bu şekilde kullanıyorum ama standart çeviri farklı
+olabilir. Örneğin 'şube' veya 'kol' da deniyor olabilir.
+
+
+
+

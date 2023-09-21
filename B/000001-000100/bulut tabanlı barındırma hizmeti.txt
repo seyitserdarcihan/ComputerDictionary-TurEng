@@ -1,11 +1,11 @@
-Türkçesi 'bulut tabanlı alan sağlama hizmeti'
+Türkçesi 'bulut tabanlı barındırma hizmeti'
 İngilizcesi 'cloud-based hosting service'
 
 
 
 
 ▬▬▬▬▬▬▬▬▬▬▬▬ Örnek ▬▬▬▬▬▬▬▬▬▬▬▬
-GitHub bir bulut tabanlı alan sağlama hizmetidir.
+GitHub bir bulut tabanlı barındırma hizmetidir.
 
 
 
