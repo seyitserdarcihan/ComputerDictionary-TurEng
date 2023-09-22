@@ -1,0 +1,16 @@
+Türkçesi 'konsol'
+İngilizcesi 'console'
+
+
+▬▬▬▬▬▬▬▬▬▬▬▬ Not 1 ▬▬▬▬▬▬▬▬▬▬▬▬
+IntelliJ IDEA'da veya başka bir IDE'de
+yazılan kodun çalıştırılması durumunda 
+kodun çıktısını (output) gösteren
+pencereye konsol denir. 
+Konsolda, yazılan koda göre, veri girişi (input)
+de yapılabilir.
+
+
+
+
+

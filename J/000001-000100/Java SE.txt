@@ -1,0 +1,14 @@
+İngilizce kısa hâli 'Java SE'
+İngilizce uzun hâli 'Java Standard Edition'
+Türkçesi 'Java Standart Sürüm'
+
+
+
+▬▬▬▬▬▬▬▬▬▬▬▬ Not 1 ▬▬▬▬▬▬▬▬▬▬▬▬
+Kitap baskıları için 'edition' kelimesi kullanıldığında,
+Türkçeye 'baskı' şeklinde çevrilir ancak, bu bir yazılım
+sürümü olduğu için baskı kelimesini kullanmak hatalı
+olur diye 'Java Standart Sürüm' dedim.
+
+
+
