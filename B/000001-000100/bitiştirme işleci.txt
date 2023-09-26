@@ -1,0 +1,17 @@
+Türkçesi 'bitiştirme işleci'
+İngilizcesi 'concatenation operator'
+
+
+
+
+▬▬▬▬▬▬▬▬▬▬▬▬ Not 1 ▬▬▬▬▬▬▬▬▬▬▬▬
+Bitiştirme işleci, toplama işaretidir.
++
+
+Ancak toplama işlemi yapmaz.
+
+
+
+
+
+

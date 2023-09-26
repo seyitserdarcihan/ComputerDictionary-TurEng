@@ -1,0 +1,4 @@
+Türkçesi 'bitiştirme'
+İngilizcesi 'concatenation'
+
+
