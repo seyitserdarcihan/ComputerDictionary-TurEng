@@ -1,14 +1,15 @@
-İngilizce akronim 'XML'
-İngilizce akronimin açılımı 'Extensible Markup Language'
+İngilizce kısaltması 'XML'
+İngilizce kısaltmanın açılımı 'extensible markup language'
+Türkçesi 'genişletilebilir biçimlendirme dili'
 
 
-
-▬▬▬▬▬▬▬▬▬▬▬▬ Açıklamalar ▬▬▬▬▬▬▬▬▬▬▬▬
+▬▬▬▬▬▬▬▬▬▬▬▬ Açıklama ▬▬▬▬▬▬▬▬▬▬▬▬
 XML akronimi oluşturulurken, akronimin birinci harfi olarak
 'extensible' kelimesinin ikinci harfi seçilmiş. M ve L harfleri
 mâlum ilk harfler.
 
 
+▬▬▬▬▬▬▬▬▬▬▬▬ Explanation ▬▬▬▬▬▬▬▬▬▬▬▬
 XML is a widely-used markup language that defines a set of rules 
 for encoding documents in a format that is both human-readable 
 and machine-readable. XML is designed to be self-descriptive and 

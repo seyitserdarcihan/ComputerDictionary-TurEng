@@ -1,5 +1,6 @@
-İngilizce akronim 'OOP' şöyle açılır 'Object-Oriented Programming'
-Türkçesi 'Nesne Yönelimli Programlama'
+İngilizce başharf kısaltması 'OOP'
+İngilizce kısaltmanın açılımı 'object-oriented programming'
+Türkçesi 'nesne yönelimli programlama'
 
 
 

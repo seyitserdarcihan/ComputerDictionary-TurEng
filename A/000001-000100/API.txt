@@ -1,6 +1,6 @@
-İngilizce akronimi 'API'
-İngilizce akronimin açılımı 'Application Programming Interface'
-Türkçesi 'Uygulama Programlama Arayüzü'
+İngilizce başharf kısaltması 'API'
+İngilizce kısaltmanın açılımı 'application programming interface'
+Türkçesi 'uygulama programlama arayüzü'
 
 
 

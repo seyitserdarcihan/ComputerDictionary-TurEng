@@ -1,10 +1,10 @@
-İngilizce akronimi 'POM'
-İngilizce akronimin açılmı 'Project Object Model'
+İngilizce başharf kısaltması 'POM'
+İngilizce kısaltmanın açılımı 'Project Object Model'
+Türkçesini bilmiyorum. 'proje nesne modeli' desek.
 
 
 
-
-▬▬▬▬▬▬▬▬▬▬▬▬ Açıklamalar ▬▬▬▬▬▬▬▬▬▬▬▬
+▬▬▬▬▬▬▬▬▬▬▬▬ Explanation ▬▬▬▬▬▬▬▬▬▬▬▬
 A pom.xml file is a configuration file used in Apache Maven, 
 a widely-used build automation and project management tool 
 primarily used for Java projects. The acronym "POM" stands for "Project Object Model" 
@@ -45,8 +45,8 @@ the development stage or target platform.
 
 
 
-
-
+▬▬▬▬▬▬▬▬▬▬▬▬ Ayrıca Bakınız ▬▬▬▬▬▬▬▬▬▬▬▬
+https://en.wikipedia.org/wiki/Apache_Maven
 
 
 

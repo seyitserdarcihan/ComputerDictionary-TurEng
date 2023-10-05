@@ -1,5 +1,5 @@
-Türkçesi 'Nesne Yönelimli Programlama'
-İngilizcesi 'Object-Oriented Programming'
+Türkçesi 'nesne yönelimli programlama'
+İngilizcesi 'object-oriented programming'
 
 
 
